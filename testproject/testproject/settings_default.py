@@ -33,6 +33,8 @@ DATABASES = dict(
     )
 )
 
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+
 INSTALLED_APPS = [
     # Project app
     "django_file_form_example",
