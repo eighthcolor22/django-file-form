@@ -1,5 +1,6 @@
 *.pyc
 *.egg-info
+
 Pipfile
 Pipfile.lock
 testproject/*.db
@@ -8,3 +9,5 @@ testproject/media
 testproject/t
 django_file_form/static/file_form/file_form.coverage.js
 django_file_form/static/file_form/file_form.coverage.js.map
+
+.idea
